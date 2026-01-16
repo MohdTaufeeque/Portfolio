@@ -910,3 +910,18 @@ footer {
 .contact-box:nth-child(4) { /* Phone */
   background: #271717; /* Green */
 }
+#contact h2 {
+  text-align: center;
+  color: #007acc;
+  margin-bottom: 1rem; /* gap below main heading */
+}
+
+#contact h3 {
+  text-align: center;
+  font-weight: 500;
+  color: #efeded;
+  margin-bottom: 2rem; /* gap below description text */
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
